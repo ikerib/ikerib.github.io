@@ -20,7 +20,7 @@ Install imwheel first:
 sudo apt install imewheel
 ```
 
-Download this [script](/assets/files/mousewheel.sh]) thanks to [https://dev.to/victoor](@victoor)
+Download this [script]({{ site.baseurl }}{% link /assets/files/mousewheel.sh %}) thanks to [@victoor](https://dev.to/victoor)
 
 
 Give permissions and run:
