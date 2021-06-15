@@ -36,4 +36,3 @@ If previous and next mouse buttons doesn't work correctly add `imwheel -b "4 5"`
 ```bash
 sudo imwheel -b "4 5"
 ```
-        
